@@ -4,6 +4,8 @@ This project focuses on building a **credit card fraud detection system** using 
 
 By following the SEMMA process, I was able to systematically approach the problem, from sampling and exploring the dataset to modifying it, building predictive models, and evaluating their performance.
 
+[Link](https://drive.google.com/file/d/1zeBLyNILnwMAMm9JTrw3kP1sOK2FhQ07/view?usp=share_link) to dataset.
+
 ## Motivation
 
 Financial fraud is a growing problem, with millions of dollars lost every year to fraudulent activities. Credit card fraud detection is one of the key applications of machine learning in the financial sector. Given the severity of the problem, detecting fraud accurately and efficiently is critical. However, with fraud being a rare event, the challenge lies in building a model that not only performs well on the majority class (non-fraud) but can also accurately detect the minority class (fraud) without overwhelming false positives.
