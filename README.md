@@ -71,4 +71,4 @@ For more details on the process and code implementation, check out the project�
 
 ## About the Author
 
-I am **Apurva Karne**, a Master’s student in Software Engineering with a specialization in Data Science. I am passionate about building data-driven solutions for real-world challenges, particularly in the field of fraud detection. Follow my work on [Medium](https://medium.com/@apurva-karne) for more articles on machine learning, data science methodologies, and cutting-edge technology.
+I am **Apurva Karne**, a Master’s student in Software Engineering with a specialization in Data Science. I am passionate about building data-driven solutions for real-world challenges, particularly in the field of fraud detection. Follow my work on [Medium](https://medium.com/@apurva.karne) for more articles on machine learning, data science methodologies, and cutting-edge technology.
